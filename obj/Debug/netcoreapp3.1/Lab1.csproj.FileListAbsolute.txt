@@ -1,0 +1,10 @@
+/Users/bigggie123/Documents/SDGKU/110/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/bigggie123/Documents/SDGKU/110/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/bigggie123/Documents/SDGKU/110/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/bigggie123/Documents/SDGKU/110/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/bigggie123/Documents/SDGKU/110/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/bigggie123/Documents/SDGKU/110/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/bigggie123/Documents/SDGKU/110/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/bigggie123/Documents/SDGKU/110/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/bigggie123/Documents/SDGKU/110/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/bigggie123/Documents/SDGKU/110/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
